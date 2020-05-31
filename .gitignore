@@ -1,0 +1,13 @@
+# IDE files
+.idea*
+*.log*
+.DS_Store
+
+
+
+#restapi
+restapi
+logs*
+
+
+lastupdate.tmp
